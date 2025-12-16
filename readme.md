@@ -18,8 +18,8 @@ Reusable Terraform modules for deploying applications across environments.
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-repo/terraform-modules-app.git
-    cd terraform-modules-app
+    git clone https://github.com/DevOpsNinja-sg/terraform-aws-multienv.git
+    cd terraform-aws-multienv
     ```
 
 2. Configure variables in `variables.tf` or `terraform.tfvars`.
